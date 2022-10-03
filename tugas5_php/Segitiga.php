@@ -7,7 +7,7 @@ class Segitiga extends Bentuk2D{
     public $b; 
     public function namaBidang()
     {
-        echo '<br/>Segitiga Sama Sisi';
+        echo '<br/>Segitiga Siku-Siku';
     }
 
     public function __construct($a, $t, $b)
